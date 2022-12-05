@@ -1,0 +1,24 @@
+{
+  "name": "ajs-platform-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandr7944/ajs-platform-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandr7944/ajs-platform-check/issues"
+  },
+  "homepage": "https://github.com/Alexandr7944/ajs-platform-check#readme",
+  "dependencies": {
+    "@alexandr7944/ajs-platform": "^1.0.0"
+  }
+}
